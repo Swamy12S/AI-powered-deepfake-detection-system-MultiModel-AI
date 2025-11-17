@@ -18,6 +18,16 @@ The project includes:
 4️⃣ **Prediction is Displayed (Real or Fake)** ✅❌  
 
 ---
+## **Result**  
+<img width="1887" height="921" alt="Screenshot 2025-11-17 225022" src="https://github.com/user-attachments/assets/4d94cc59-6f40-4161-84de-2fcfb420faa6" />
+
+<img width="1812" height="924" alt="Screenshot 2025-11-17 225042" src="https://github.com/user-attachments/assets/50a4188c-f858-4e9f-a0d6-7881a6769dc3" />
+
+<img width="1729" height="803" alt="Screenshot 2025-11-17 225054" src="https://github.com/user-attachments/assets/ae564b00-8fd5-4a6f-ab84-da932d85b210" />
+
+
+
+
 
 ## **Tech Stack**  
 - **Deep Learning Models**: PyTorch, EfficientNet-B0, Wav2Vec2.0  
